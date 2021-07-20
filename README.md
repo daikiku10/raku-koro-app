@@ -1,5 +1,5 @@
 ## 概要
-チームでreact、typescript、node学習のために制作しました。
+チームでreact、typescript、node学習のために制作しました。 (現在はAWSインスタンスを止めています)
 ## 制作期間
 1.5週間
 ## 成果物URL
