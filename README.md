@@ -3,7 +3,7 @@
 ## 制作期間
 1.5週間
 ## 成果物URL
-rakuraku-korona.web.app
+https://rakuraku-korona.web.app/
 ## 使用技術
 ### 言語
 
