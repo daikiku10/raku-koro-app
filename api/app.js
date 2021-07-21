@@ -26,7 +26,7 @@ app.use('/users', usersRouter);
 app.use('/threads', threadsRouter);
 
 //mongoDBとの接続「mongodb+srv://[ユーザーネーム]:[パスワード]@[クラスター名].~~~/[DB名]?~~~」
-mongoose.connect("mongodb+srv://UgWeaJkajMnfNPvb:NNUx0LeBBbSLrxZn@cluster0.55dgr.mongodb.net/raku-coro?retryWrites=true&w=majority");
+mongoose.connect("mongodb+srv://[username]:[password]@cluster0.55dgr.mongodb.net/raku-coro?retryWrites=true&w=majority");
 mongoose.connection.once("open", () => {
   console.log("db connected");
 });
